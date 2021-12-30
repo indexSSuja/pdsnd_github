@@ -64,4 +64,4 @@ If you need to build visualization to showcase the output of your data analysis 
 ### Conclusion:
 In this article, you got an overview of the course work that I took for python programming and data science. We explored different reporting packages like pandas profiling, pandas, numpy for in depth data analysis. If you are a beginner like me then this is a great course work.
 
-Thanks for reading, hope to see you in my next post. 
+
