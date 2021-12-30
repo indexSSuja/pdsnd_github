@@ -34,7 +34,7 @@ To complete this project, the following software requirements apply:
 # 3 Trip duration
 	• total travel time
 	• average travel time
-# 4 User info
+# 4 User information
 	• counts of each user type
 	• counts of each gender (only available for NYC and Chicago)
 	• earliest, most recent, most common year of birth (only available for NYC and Chicago)
