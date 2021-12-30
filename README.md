@@ -43,7 +43,7 @@ To complete this project, the following software requirements apply:
 
 Project mainly consist of the following functions
 
-	1. Test_berkshire3 - This is the main function of our code that invokes the related function
+	1. Test_berkshir3 - This is the main function of our code that invokes the related function
 	2. Load_data-We have to filter data based on user input and that is accomplished as part of this function
 	3. Calculate most common month, day,- hour of the week
 	4. Display data based on user input
