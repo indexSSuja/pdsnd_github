@@ -128,7 +128,7 @@ def test_berkshire2():
             weekday = weekday.lower()
             break
         else:
-            print("Please enter the name of the weekday in strings")
+            print("Please enter the name of the weekday (Monday, Tuesday)in strings")
     print(cityname, monthname, weekday)
 
     run = berkshire()
