@@ -34,7 +34,7 @@ To complete this project, the following software requirements apply:
 # 3 Trip duration
 	• total travel time
 	• average travel time
-# 4 User info
+# 4 User information
 	• counts of each user type
 	• counts of each gender (only available for NYC and Chicago)
 	• earliest, most recent, most common year of birth (only available for NYC and Chicago)
@@ -43,7 +43,7 @@ To complete this project, the following software requirements apply:
 
 Project mainly consist of the following functions
 
-	1. Test_berkshir3 - This is the main function of our code that invokes the related function
+	1. Test_berkshir2 - This is the main function of our code that invokes the related function
 	2. Load_data-We have to filter data based on user input and that is accomplished as part of this function
 	3. Calculate most common month, day,- hour of the week
 	4. Display data based on user input
@@ -64,4 +64,4 @@ If you need to build visualization to showcase the output of your data analysis 
 ### Conclusion:
 In this article, you got an overview of the course work that I took for python programming and data science. We explored different reporting packages like pandas profiling, pandas, numpy for in depth data analysis. If you are a beginner like me then this is a great course work.
 
-Thanks for reading, hope to see you in my next post. 
+

@@ -104,7 +104,7 @@ class berkshire():
         print("Most Common Birth Year", "\n", mostcommonyear)
 
 
-def test_berkshire():
+def test_berkshire2():
     validcityname = ['chicago', 'washington', 'new york']
     while True:
         cityname = input("Please enter the name of the city :")
@@ -128,7 +128,7 @@ def test_berkshire():
             weekday = weekday.lower()
             break
         else:
-            print("Please enter the name of the weekday in strings")
+            print("Please enter the name of the weekday (Monday, Tuesday)in strings")
     print(cityname, monthname, weekday)
 
     run = berkshire()
@@ -144,4 +144,4 @@ def test_berkshire():
 
 
 if __name__ == "__main__":
-    test_berkshire()
+    test_berkshire2()
